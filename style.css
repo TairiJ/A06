@@ -1,0 +1,13 @@
+* {
+    background-color: white;
+}
+
+img {
+    float: left;
+    margin-right: 1em;
+    height: 5em;
+}
+
+h4 {
+    clear: left;
+}
